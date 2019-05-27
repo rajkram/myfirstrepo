@@ -2,4 +2,4 @@ myfirstrepo
 ===========
 
 my first repo for learning
-first edit on  abranch
+first edit on  a branch
